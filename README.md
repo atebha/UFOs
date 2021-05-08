@@ -16,5 +16,5 @@ Summary:
 
   A drawback to this design is the user must be familar with the UX and know the filters they want. The table of data must also be continually updated otherwise users will not get any results on some searches. Also the filters are limited to the enetered data for the table rather than an api to search for any loaction in the world. This leaves the page rather static and quite limited for its intended purposes of displaying UFO citings. Two recommendations for the imporvment of this page would be as follows:
   
-  1. Tie the filtering to an api for geoloacting that matches the location to a given match value in the data table.
+  1. Tie the filtering to an api for geoloacting that matches the location to a given match value in the data table and displays a maps for it so a user can see where ina  given area sightings are more common.
   2. The data table should be continually updated with new citing or doen via crowd source enter data to make the data table dynamic. 
