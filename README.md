@@ -10,7 +10,7 @@ Results:
   
 Challenges: 
 
-  The formating of the app file was difficult, the alignment of the code would not set correctly. The table also did not update to be able to run the ultiple filters. Quite a bit of formating a debugging was involved for this. 
+  The formating of the app file was difficult, the alignment of the code would not set correctly. The table also did not update to allow for running multiple filters. Quite a bit of formating a debugging was involved for this. 
   
 Summary:
 
